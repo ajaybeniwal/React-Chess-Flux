@@ -1,7 +1,0 @@
-build
-docs
-example
-Makefile
-
-# jsx Transform Disk Cache
-.module-cache
