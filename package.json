@@ -1,0 +1,21 @@
+{
+  "name": "development",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "react":"latest",
+    "webpack":"latest",
+    "jsx-loader":"latest",
+    "6to5-loader":"latest",
+    "babel":"latest",
+    "babel-loader":"latest",
+    "flux":"latest",
+    "keymirror": "~0.1.0",
+    "object-assign": "^1.0.0",
+     "react-hot-loader": "^1.1.5",
+    "request": "^2.40.0",
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.7.0"
+  }
+  
+}
